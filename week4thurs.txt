@@ -1,0 +1,19 @@
+This is my week4 Thurs HW
+4.6.1 SCB
+
+Basically these are all conditions and loops which I get the gist of it but not exactly.
+I think they will make more sense once we try them out.
+
+1) hello will be printed for how many "i"s there are
+2) hello will be printed for the number of j's but that j has a condition
+which is %3
+3) this one has two condtions both having to do with j
+
+I am assuming the letters stand for a variable
+
+4) Something else
+5) More conditional stuff, just gets gnarlier and gnarlier conditions
+
+not sure what fooXX does
+
+
